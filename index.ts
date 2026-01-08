@@ -3,8 +3,8 @@ import Products from "./Products";
 //plugins/blog/index.ts
 const plugin = {
   _id: "695fba82672e2493b69f0cd9",
-  name: "Product container",
-  slug: "product-container",
+  name: "Products",
+  slug: "products",
   version: "1.0.0",
   author: "Mohid",
   description: "",
